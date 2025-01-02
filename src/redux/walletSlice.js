@@ -4,7 +4,7 @@ import { createSlice } from "@reduxjs/toolkit";
 export const walletSlice = createSlice({
     name: 'wallet',
     initialState: {
-        balance: 100000000000,
+        balance: 100000000000000000000000000000000000000000000000000000000,
         cart: []
     },
     reducers: {
